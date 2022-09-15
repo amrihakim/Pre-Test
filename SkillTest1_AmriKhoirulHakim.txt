@@ -1,0 +1,4 @@
+Nama : Amri Khoirul Hakim
+Umur : 21 Tahun
+Stack : Fullstack
+Bahasa Pemrograman : JavaScript, PHP
